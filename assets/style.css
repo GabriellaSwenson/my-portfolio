@@ -1,0 +1,12 @@
+header {
+  color: lavender;
+}
+
+header a {
+  font-size: 20px;
+  color: slategray;
+}
+
+img {
+  height: 100px;
+}

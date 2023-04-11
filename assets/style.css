@@ -1,5 +1,10 @@
-header {
-  color: lavender;
+main {
+  background-color: slategray;
+}
+
+h2 {
+  color: rgb(66, 66, 66);
+  background-color: rgb(196, 36, 70);
 }
 
 header a {
@@ -8,5 +13,13 @@ header a {
 }
 
 img {
-  height: 100px;
+  height: 300px;
+}
+
+.card {
+  flex: 1 1 1;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
 }
